@@ -4,15 +4,15 @@
  
 
 [Yelp Coffee Project (SQL, R, Python)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/270697009869749/2942856714861038/4867323561876272/latest.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Flights To and From Austin (R)](https://rpubs.com/mwodka2/flight_delays_project)
-<img src="images/Screen Shot 2022-04-05 at 4.24.23 PM.png?raw=true"/>
+
 
 ---
 [Most Reliable Airlines (Tableau)]()
-<img src="images/Screen Shot 2022-04-05 at 4.27.00 PM.png"/>
+
 
 ---
 

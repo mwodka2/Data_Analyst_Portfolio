@@ -1,10 +1,9 @@
 ## Data Analyst Portfolio
 
 ---
+ 
 
-### Category Name 1 
-
-[Yelp Coffee Project (SQL, R, Python)](/sample_page)
+[Yelp Coffee Project (SQL, R, Python)](https://github.com/mwodka2/mwodka2.github.io/blob/master/Yelp%20Coffee%20Project.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +11,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Most Reliable Airlines (Tableau)](http://example.com/)
+[Most Reliable Airlines (Tableau)]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

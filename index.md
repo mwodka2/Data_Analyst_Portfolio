@@ -1,18 +1,18 @@
-## Portfolio
+## Data Analyst Portfolio
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Yelp Coffee Project (SQL, R, Python)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Flights To and From Austin (R)](https://rpubs.com/mwodka2/flight_delays_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Most Reliable Airlines (Tableau)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

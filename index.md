@@ -3,26 +3,16 @@
 ---
  
 
-[Yelp Coffee Project (SQL, R, Python)](https://github.com/mwodka2/mwodka2.github.io/blob/master/Yelp%20Coffee%20Project.html)
+[Yelp Coffee Project (SQL, R, Python)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/270697009869749/2942856714861038/4867323561876272/latest.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Flights To and From Austin (R)](https://rpubs.com/mwodka2/flight_delays_project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2022-04-05 at 4.24.23 PM.png?raw=true"/>
 
 ---
 [Most Reliable Airlines (Tableau)]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/Screen Shot 2022-04-05 at 4.27.00 PM.png"/>
 
 ---
 

@@ -5,4 +5,4 @@ This portfolio displays links to sample projects demonstrating my data analysis 
 
 ### References
 
-Portfolio template from [evanca] (https://github.com/evanca/quick-portfolio)
+Portfolio template from [evanca](https://github.com/evanca/quick-portfolio)

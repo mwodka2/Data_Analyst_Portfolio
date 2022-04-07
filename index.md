@@ -11,7 +11,7 @@
 <img src="images/Screen Shot 2022-04-05 at 4.24.23 PM.png"/>
 
 ---
-## 3. [Most Reliable Airlines (Tableau)](https://public.tableau.com/views/ImpactofDiscountonProfit_16493606565550/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## 3. [Discount Exploratory Analysis (Tableau)](https://public.tableau.com/views/ImpactofDiscountonProfit_16493606565550/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <img src="images/Screen Shot 2022-04-07 at 3.50.13 PM.png"/>
 
 

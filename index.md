@@ -16,7 +16,7 @@
 
 
 ---
-## 4. [Top Clients Analysis (SQL)](Malory_Wodka_Top_Clients.html)
+## 4. [Top Clients Analysis (SQL)](https://github.com/mwodka2/mwodka2.github.io/blob/23c2daf017cfe4b5c05b236074162f18e3fce4a2/Malory_Wodka_Top_Clients.html)
 <img src="https://github.com/mwodka2/mwodka2.github.io/blob/master/images/top_clients_map.png"/> 
 
 
